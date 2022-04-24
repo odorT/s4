@@ -1,2 +1,2 @@
 # s4
-Simple and Secure Storage Service
+Specially developed for Semester Project
